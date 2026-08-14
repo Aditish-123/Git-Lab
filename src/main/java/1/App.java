@@ -1,9 +1,11 @@
-public class SimpleAdd {
+public class App {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 20;
+
+        // Dono numbers ko add karna
         int sum = num1 + num2;
 
-        System.out.println("Add two numbers: " + sum);
+        System.out.println("Dono numbers ka sum hai: " + sum);
     }
 }
